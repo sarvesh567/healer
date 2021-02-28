@@ -1,0 +1,6 @@
+framework module Pods_Healer {
+  umbrella header "Pods-Healer-umbrella.h"
+
+  export *
+  module * { export * }
+}
